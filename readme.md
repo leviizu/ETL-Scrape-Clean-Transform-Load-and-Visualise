@@ -1,4 +1,4 @@
-# Sreality-Real-Estate-Scrape-Clean-Transform-Load-and-Visualise
+# Sreality.com-Real-Estate-Scrape-Clean-Transform-Load-and-Visualise
 
 ## About the Project:
 
