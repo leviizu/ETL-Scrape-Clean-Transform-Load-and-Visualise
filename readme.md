@@ -15,9 +15,9 @@ Prague Rentals: [https://www.sreality.cz/en/search/to-rent/apartments/brno,brno-
 
 Prague Sales: [https://www.sreality.cz/en/search/for-sale/apartments/praha?page=1](https://www.sreality.cz/en/search/for-sale/apartments/praha?page=1)
 
-Brno Rentals: [[https://www.sreality.cz/](https://www.sreality.cz/en/search/to-rent/apartments/brno,brno-venkov?page=1)](https://www.sreality.cz/en/search/to-rent/apartments/brno,brno-venkov?page=1)
+Brno Rentals: [https://www.sreality.cz/en/search/to-rent/apartments/brno,brno-venkov?page=1](https://www.sreality.cz/en/search/to-rent/apartments/brno,brno-venkov?page=1)
 
-Brno Sales: [https://www.sreality.cz/en/search/for-sale/apartments/brno,brno-venkov?page=1](https://www.sreality.cz/en/search/for-sale/apartments/brno,brno-venkov?page=1))
+Brno Sales: [https://www.sreality.cz/en/search/for-sale/apartments/brno,brno-venkov?page=1](https://www.sreality.cz/en/search/for-sale/apartments/brno,brno-venkov?page=1)
 
 
 
