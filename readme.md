@@ -11,7 +11,7 @@ The biggest real estate company/website (rents and sells) in Czech Republic (wor
 The processed data is loaded into a csv file and imported into Tableau where viz are created to compare price to rent ratios across streets, types, districts etc 
 
 ## URLs:
-Prague Rentals: [[https://www.sreality.cz/](https://www.sreality.cz/en/search/to-rent/apartments/brno,brno-venkov?page=)]([https://www.sreality.cz/](https://www.sreality.cz/en/search/to-rent/apartments/brno,brno-venkov?page=))
+Prague Rentals: [https://www.sreality.cz/en/search/to-rent/apartments/brno,brno-venkov?page=1](https://www.sreality.cz/en/search/to-rent/apartments/brno,brno-venkov?page=1)
 
 Prague Sales: [https://www.sreality.cz/en/search/for-sale/apartments/praha?page=1](https://www.sreality.cz/en/search/for-sale/apartments/praha?page=1)
 
