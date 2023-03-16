@@ -17,7 +17,8 @@ To demonstrate a full Web scraping ETL project from scrapping through transforma
 ## Deliverables:
 
 ### Tableau Dashboard:
-The processed data is loaded into a csv file and imported into Tableau where viz are created to compare price to rent ratios across streets, types, districts etc click to see dashboard: https://public.tableau.com/app/profile/levy.shemtov/viz/PriceToRentRatioforScrapedRealestatewebsitelisting/Dashboard1
+The processed data is loaded into a csv file and imported into Tableau where viz are created to compare price to rent ratios across streets, types, districts etc 
+Click to see dashboard: https://public.tableau.com/app/profile/levy.shemtov/viz/PriceToRentRatioforScrapedRealestatewebsitelisting/Dashboard1
 
 ### Jupter Notebook:
 
