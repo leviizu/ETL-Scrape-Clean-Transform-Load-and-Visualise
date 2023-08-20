@@ -9,6 +9,7 @@ The biggest real estate company/website (rents and sells) in Czech Republic (wor
 ## Project Purpose:
 To demonstrate a full Web scraping ETL project from scrapping through transformation to visualisation 
 
+
 ## Goal:
 - To accurately identify apartments that have above average price to rent ratio across streets, districts, and cities
 - To accurately identify apartments with below average rents across apartment types and cities
@@ -19,7 +20,7 @@ To demonstrate a full Web scraping ETL project from scrapping through transforma
 ### Tableau Dashboard:
 The processed data is loaded into a csv file and imported into Tableau where viz are created to compare price to rent ratios across streets, types, districts etc 
 Click to see dashboard: https://public.tableau.com/app/profile/levy.shemtov/viz/PriceToRentRatioforScrapedRealestatewebsitelisting/Dashboard1
-
+<img width="1403" alt="Screenshot 2023-08-20 at 11 32 03 PM" src="https://github.com/leviizu/ETL-Scrape-Clean-Transform-Load-and-Visualise/assets/96123459/6458b830-c969-4337-9b70-633970f821ca">
 ### Jupter Notebook:
 
 ## Business Impact:
